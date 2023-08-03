@@ -1,1 +1,7 @@
-# Decoding_heart_disease
+# Decoding Heart Disease: Exploring the Validity of Key Risk Indicators
+
+Heart disease is a leading cause of mortality worldwide and has been linked to several key risk factors, including high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, and alcohol consumption. While these risk factors are well-established in medical literature, it is important to assess their relevance as accurate indicators for heart disease. As such, this project aims to perform exploratory data analysis (EDA) on the Personal Key Indicators of Heart Disease dataset to investigate the relationship between the included variables and their correlation with heart disease.
+
+The Personal Key Indicators of Heart Disease dataset contains information on several variables including BMI, smoking status, alcohol consumption, physical and mental health, difficulty with walking, age, race, diabetic status, physical activity, general health, sleep time, asthma, and kidney disease. The objective of this project is to conduct EDA on this dataset to determine whether these variables are true indicators of heart disease.
+
+To achieve this goal, the project will first analyze the distribution of the variables and identify any correlations or patterns between them and the occurrence of heart disease. In addition, statistical methods will be employed to test the significance of the relationships between the variables and heart disease. Through this analysis, the project aims to gain a deeper understanding of the key indicators of heart disease and whether they are accurate indicators of the disease.
